@@ -67,7 +67,7 @@ ampPages = [
     "https://popsugar.dev4.onsugar.com/home/photo-gallery/42357029/image/42357061/Texture-More-Merrier/amp",
     "https://popsugar.dev4.onsugar.com/home/photo-gallery/43012327/embed/43012338/When-Emmie-Perfected-Floral-Display/amp",
     "https://popsugar.dev4.onsugar.com/moms/Best-Bottles-Breastfed-Babies-16069693/amp",
-    "https://popsugar.dev4.onsugar.com/smart-living/photo-gallery/43588487/video/43589238/Watch-ride-action/amp"
+    "https://popsugar.dev4.onsugar.com/smart-living/photo-gallery/43588487/video/43589238/Watch-ride-action/amp",
 ]
 for x in range(len(ampPages)):
     print ampPages[x]
